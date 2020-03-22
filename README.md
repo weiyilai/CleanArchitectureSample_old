@@ -1,12 +1,15 @@
 # CleanArchitectureSample
+#### 開發工具：<br/>
 Sql Server Express<br/>
 Visual Studio 2017 Community<br/>
 Northwind Database <br/>
 
-安裝 MSSql Express<br/>
-安裝 VS 2017 Community<br/>
+#### 步驟：<br/>
+安裝 <a href="https://www.microsoft.com/zh-tw/sql-server/sql-server-downloads" target="_black">SQL Server Express</a><br/>
+安裝 <a href="https://visualstudio.microsoft.com/zh-hant/vs/community/" target="_black">Visual Studio Community</a><br/>
+安裝 <a href="https://docs.microsoft.com/zh-tw/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" target="_black">SQL Server Management Studio (SSMS)</a><br/>
 開啟SSMS<br/>
-執行 SQL Server Samples 下載的 instnwnd.sql 北風資料庫Script
+執行 SQL Server Samples 下載的 <a href="https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql" target="_black"> instnwnd.sql </a> 北風資料庫Script
 
 # SQL Server Samples
 https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
