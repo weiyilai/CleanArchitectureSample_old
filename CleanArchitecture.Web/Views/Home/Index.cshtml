@@ -1,0 +1,13 @@
+﻿@model IEnumerable<CleanArchitecture.Web.ApiModels.CategoriesDTO>
+
+@{
+    ViewData["Title"] = "ToDo List";
+}
+
+<h2>To Do Items (MVC View)</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.CategoryName<br />@item.Description</li>
+    }
+</ul>

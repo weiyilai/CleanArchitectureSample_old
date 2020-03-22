@@ -1,0 +1,14 @@
+{
+  "ConnectionStrings": {
+    "NorthwindConnection": "Server=DESKTOP-G7KEC85\\SQLEXPRESS;User ID=WebUser;Password=1qaz@WSX;Initial Catalog=Northwind;Persist Security Info=False"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Debug",
+      "System": "Information",
+      "Microsoft": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
